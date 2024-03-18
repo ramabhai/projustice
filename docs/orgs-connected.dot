@@ -1,0 +1,32 @@
+
+
+digraph dott {
+
+graph [layout = dot]
+
+node [shape = circle,
+      style = filled,
+      color = grey,
+      label = '']
+
+node [fillcolor = red, shape=folder]
+
+a
+
+
+
+node [fillcolor = green, shape=square]
+b c d e f
+
+node [fillcolor = orange, shape=oval]
+
+edge [color = grey, weight=0.5, arrowhead=crow]
+a -> {b c d e f}
+b -> {g h i j k}
+c -> {l m n o p}
+d -> {q r s t u v w}
+
+edge [style=dashed, arrowhead=none ]
+{b c d e f} -> {g k l n q w} -> a
+  
+}

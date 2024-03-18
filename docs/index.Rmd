@@ -2,8 +2,8 @@
 title: "ENVIRORIGHTS TT"
 subtitle: "Have rights will sustain  &#x2638;"  
 author: 
-  - "Project to be implemented by CANARI "
-  - "with ICT and solutions reporting support by ENVIRONMENT TOBAGO"
+  - "Project implementation: CANARI "
+  - "with ICT and civic reporting support by ENVIRONMENT TOBAGO"
 date: '`r Sys.Date()`'
 output:
   xaringan::moon_reader:
@@ -44,41 +44,38 @@ xaringanExtra::use_panelset()
 ## trois logotipos == 3 Key logos
 
 ![all logos](https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21286698&authkey=%21AGCAbGPQ8j1czCw&width=1200&height=600)
+
+.footnote[Lets get some logos for the next slide]
 ---
 ## der Überblick == Overview 
 
-.panelset[
+.panelset.sideways[
 
-.panel[.panel-name[PARTNERS]
+.panel[.panel-name[PARTNER ENTITIES] 
 
-Partner support entities:
-
-    * EquiGov Institute 
-    
-    * Environmental Law Alliance Worldwide (ELAW) 
-    
-    * Parliamentarians for Global Action (PGA) 
-
+![](https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21288205&authkey=%21APU-Y_g0jblpzl8&width=660ENTITIES)
 ]
 
 .panel[.panel-name[SPONSOR]
 
 **The EnviroRightsTT project is funded by the European Union** (*NDICI/CSO/2023-449-480*).
 
-
 ]
 
 .panel[.panel-name[DURATION]
 
 #### 30 Months ... 
-<!---- place timeline imagery here  --->
-]
-]
+<!---- place timeline imagery here  --->--
 
----
-## EnviroRightsTT 
-
->### Building civil society capacity to access information, participate in policymaking and access justice in environmental matters in Trinidad and Tobago **
+```{r echo=FALSE, message=TRUE}
+message("Timeline to be inserted here")
+```
+]
+.panel[.panel-name[Formal ID]
+<center>
+<img src="https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21255160&authkey=%21APZpC1eIj8dmANc&width=1024">
+</center>
+]]
 
 ---
 ## particularite&acute; == Objectives
@@ -87,22 +84,27 @@ Partner support entities:
 
 .panelset.sideways[
 
-.panel[.panel-name[Use the FOIA]
+.panel[.panel-name[INTERVENTION LOGIC]
 
-**Effectively utilise the Freedom of Information Act (to access information on environmental matters), thereby enhancing transparency and accountability**. 
+#### EnviroRightsTT intervention logic hinges on the belief that empowered CSOs, with improved knowledge and capacity to utilise policy and legal mechanisms for access to information, participation and justice, can foster transparency, accountability and inclusive environmental governance in T&T.
+]
+
+.panel[.panel-name[ACCESS FOIA]
+
+#### To effectively utilise the Freedom of Information Act (1999) to access information on environmental matters, *thereby enhancing transparency and accountability*. 
      
-(*Outcome 1*); 
+(*IT: Outcome 1*); 
 ]     
-.panel[.panel-name[PARTICIPATE]    
+.panel[.panel-name[PARTICIPATE <br> & ADVOCATE]    
  
-**Participate in policy and advocate for inclusive environmental governance**. 
+#### Participate in policy and *advocate for inclusive environmental governance*. 
      
-(*Outcome 2*); 
+(*IT: Outcome 2*); 
 ]    
 
 .panel[.panel-name[SEEK JUSTICE]  
      
-**Seek justice through the mechanisms of the Environmental Commission**. 
+#### Seek justice through the mechanisms of the Environmental Commission. 
      
   (*Outcome 3*);
 
@@ -110,50 +112,69 @@ Partner support entities:
 
 .panel[.panel-name[PROMOTE]  
      
-**Promote and foster an institutional framework and partnerships which better enable CSOs to serve both as independent actors and partners in sustainable development**. 
+#### Promote and foster an institutional framework and partnerships *which better enable CSOs to serve both as independent actors and partners in sustainable development*. 
      
-(*Outcome 4*).
+(*IT: Outcome 4*).
  ]
 ]
 
-???
-The action’s intervention logic is based on the belief that empowered CSOs, with improved knowledge and capacity to utilise policy and legal mechanisms for access to information, participation and justice, can foster transparency, accountability and inclusive environmental governance in T&T.
+
 ---
-##  ativitet == Activities
+##  ativitet == Activities == COMPONENT A
 
 .panelset.sideways.right-side[
 
 .panel[.panel-name[ MOBILISING & MAPPING]
 
-  1. Identifying and analysing civil society stakeholders who are environmental defenders and advocates and should be targeted under the action. 
+  1. **Identifying and analysing** civil society stakeholders who are environmental defenders and advocates and should be targeted under the action. 
 
-  1. Analysis will look specifically at their: roles and responsibilities; experiences with issues related to access to information, participation for justice in environmental matters; relationships; capacities and capacity needs (*to identify key CSOs*). 
+  1. **Analysis will look specifically at: roles and responsibilities; experiences with issues related to access to information, participation for justice in environmental matters; relationships; capacities and capacity needs** (*to identify key CSOs*). 
 
-1. Mapping will inform identification of target CSOs and development of a strategy with mechanisms for communication, engagement and capacity building under the action. 
-
+  1. **Mapping will inform identification** of target CSOs and development of a strategy with mechanisms for communication, engagement and capacity building under the action. 
+]
 ]
 
-.panel[.panel-name[BUILD AWARENESS & CAPACITY]
+---
+## COMPONENT B / Activities
 
-Capacity building will focus on several key areas, including:
+.panelset.sideways.right-side[
+
+.panel[.panel-name[AWARENESS & CAPACITY]
+
+**Awareness & Capacity building** will focus on several key areas, including:
     
-    • Access to information 
-    • Documenting **local knowledge**.  
-    • Citizen journalism and online platforms 
-    • Legal and scientific support  
-    • Advocacy 
-    • Governance   
-
+  - Access to information  
+  
+  - Documenting local knowledge. 
+  
+  - Citizen journalism and online platform   
+  
+  - Legal and Scientific support 
+  
+  - Advocacy   
+  
+  - Governance      
 ]
+]
+
+---
+## COMPONENT C   /Activities
+
+.panelset.sideways.rightside[
 
 .panel[.panel-name[TAKING ACTION]
 
-CANARI will manage a small grant programme to support individual or coalitions of CSOs, to execute their pilot actions, with support of the legal and scientific team and other partners. 
+CANARI will 
+
+  ... **manage a small grant programme** to support Individual or Coalitions of CSOs, to execute their pilot actions, with support of the legal and scientific team and other partners. 
+
 <!--
 CANARI’s existing small grant programme mechanism will be used, which includes procedures for application, review, award, contracting, monitoring and reporting. CSOs will be supported to apply for and use small grants to execute pilot actions. 
 -->
 
-CANARI will coach CSOs to ensure effective implementation, financial management and reporting on the small grants. <!-- CANARI’s extensive experience with managing small and micro grants programmes for CSOs will be leveraged to ensure a supportive approach. -->
+  ... **coach CSOs** to ensure effective implementation, financial management and reporting on the small grants. 
+  
+  <!-- CANARI’s extensive experience with managing small and micro grants programmes for CSOs will be leveraged to ensure a supportive approach. -->
 ]
 
 
@@ -178,318 +199,68 @@ Advocacy – CANARI will conduct advocacy training for CSOs and facilitate virtu
 Governance – PGA will provide awareness and capacity building for Parliamentarians on the Escazú Agreement and their role in application of rights to access information, participation and access to justice in environmental matters. T&T members of parliament will also be connected with Parliamentarians from around the Caribbean who are champions for the Escazú Agreement.
 
 ---
-## Typography
-
-Text can be **bold**, _italic_, ~~strikethrough~~, or `inline code`.
-
-[Link to another slide](#colors).
-
-### Lorem Ipsum
-
-Dolor imperdiet nostra sapien scelerisque praesent curae metus facilisis dignissim tortor. 
-Lacinia neque mollis nascetur neque urna velit bibendum. 
-Himenaeos suspendisse leo varius mus risus sagittis aliquet venenatis duis nec.
-
-- Dolor cubilia nostra nunc sodales
-
-- Consectetur aliquet mauris blandit
-
-- Ipsum dis nec porttitor urna sed
-
----
-name: colors
-
-## Colors
-
-.left-column[
-Text color
-
-
-
-[Link Color](#3)
-
-**Bold Color**
-
-_Italic Color_
-
-`Inline Code`
-]
-
-.right-column[
-Lorem ipsum dolor sit amet, [consectetur adipiscing elit (link)](#3), 
-sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-Erat nam at lectus urna.
-Pellentesque elit ullamcorper **dignissim cras tincidunt (bold)** lobortis feugiat. 
-_Eros donec ac odio tempor_ orci dapibus ultrices. 
-Id porta nibh venenatis cras sed felis eget velit aliquet.
-Aliquam id diam maecenas ultricies mi.
-Enim sit amet 
-`code_color("inline")`
-venenatis urna cursus eget nunc scelerisque viverra.
-]
-
----
-# Big Topic or Inverse Slides `#`
-
-
-## Slide Headings `##`
-
-### Sub-slide Headings `###`
-
-#### Bold Call-Out `####`
-
-This is a normal paragraph text. Only use header levels 1-4.
-
-##### Possible, but not recommended `#####`
-
-###### Definitely don't use h6 `######`
-
----
-
-# Left-Column Headings
-
-.left-column[
-## First
-
-## Second
-
-## Third
-]
-
-.right-column[
-Dolor quis aptent mus a dictum ultricies egestas.
-
-
-Amet egestas neque tempor fermentum proin massa!
-
-Dolor elementum fermentum pharetra lectus arcu pulvinar.
-]
-
----
 class: inverse center middle
 
-# Topic Changing Interstitial
+![](https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21288503&authkey=%21AD2WKYoVumpxtxI&width=660)
 
-
----
-layout: true
-
-## Blocks
-
-
-### Blockquote
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+.footnote[Citizen Journal, Online platform etc. | *Component B > Awareness & Capacity Building*]
 
 ---
-### Code Blocks
+## INTRO TO 17ASAP
 
-#### R Code
-
-```{r eval=FALSE}
-ggplot(gapminder) +
-  aes(x = gdpPercap, y = lifeExp, size = pop, color = country) +
-  geom_point() +
-  facet_wrap(~year)
+```{r echo=FALSE, message=TRUE}
+message( "Diagram: Civic Journal Studio [RED] > Content creators [GREEN] > Engaged CSOs [GOLD]")
+```
+--
+```{r connorg, echo=FALSE}
+DiagrammeR::grViz("orgs-connected.dot")
 ```
 
-#### JavaScript
-
-```js
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+```{r echo=FALSE, message=TRUE}
+message("Content == blog, podcast, mini-vids") 
 ```
-
----
-
-### More R Code
-
-```{r eval=FALSE}
-dplyr::starwars %>% dplyr::slice_sample(n = 4)
-```
-
----
-
-```{r message=TRUE, eval=requireNamespace("cli", quietly = TRUE)}
-cli::cli_alert_success("It worked!")
-```
-
 --
 
-```{r message=TRUE}
-message("Just a friendly message")
+```{r echo =FALSE, message=TRUE}
+message("ICT == 100% Open Source") 
 ```
-
 --
-
-```{r warning=TRUE}
-warning("This could be bad...")
+```{r echo=FALSE, message=TRUE}
+message("STUDIO == ET Studio")
 ```
+---
+## 17ASAP's Overarching Goal:
 
+>To strengthen civil society and citizen action in T&T for an expanded civic and democratic space 
+
+### Key Objectives 
+
+
+1. Generate timely knowledge and strategic analyses on civil society actions in relation to T&T's civic and democratic space
+	
+1. Coordinate targeted advocacy to defend and expand civic and democratic action for environmental rights
+
+1. Provide WRITE SUPPORT for non-political activists and organisations advocating for sustainable approaches to development 
+
+1. ADVOCATE FOR PROTECTION in law for activists and organisations engaged in (3) above.  
+
+1. Strengthen public discourse on the civic space and reinforce Civil Society TT narratives via 17ASAP
+
+1. Build VOICE (for) the most affected groups and their movements, enabling them to stimulate the fledlging environmental rights narrative in T&T - by virtue of arguing their causes.
+
+
+<!--
+Modified from https://www.civicus.org/documents/strategic-plan/CIVICUS-strategic-plan-2022-2027_en.pdf  -->
+
+---
+
+```{r message=TRUE, echo=FALSE, eval=requireNamespace("cli", quietly = TRUE)}
+cli::cli_alert_success("mailto:bertrand@environmenttobago.net") 
+```
 --
-
-```{r error=TRUE}
-stop("I hope you're sitting down for this")
+```{r echo=FALSE, message=TRUE}
+message("Almost done here")
 ```
-
-
----
-layout: true
-
-## Tables
-
----
-exclude: `r if (requireNamespace("tibble", quietly=TRUE)) "false" else "true"`
-
-```{r eval=requireNamespace("tibble", quietly=TRUE)}
-tibble::as_tibble(mtcars)
-```
-
----
-
-```{r}
-knitr::kable(head(mtcars), format = 'html')
-```
-
----
-exclude: `r if (requireNamespace("DT", quietly=TRUE)) "false" else "true"`
-
-```{r eval=requireNamespace("DT", quietly=TRUE)}
-DT::datatable(head(mtcars), fillContainer = FALSE, options = list(pageLength = 4))
-```
-
----
-layout: true
-
-## Lists
-
----
-
-.pull-left[
-#### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-]
-
-.pull-right[
-
-#### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-]
-
----
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
----
-
-### Nesting an ol in ul in an ol
-
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-  1. level 2 item (ol)
-  1. level 2 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-  1. level 4 item (ol)
-  1. level 4 item (ol)
-    - level 3 item (ul)
-    - level 3 item (ul)
-- level 1 item (ul)
-
----
-layout: true
-
-## Plots
-
----
-
-```{r plot-example, eval=requireNamespace("ggplot2", quietly=TRUE)}
-library(ggplot2)
-(g <- ggplot(mpg) + aes(hwy, cty, color = class) + geom_point())
-```
-
----
-
-```{r plot-example-themed, eval=requireNamespace("showtext", quietly=TRUE) && requireNamespace("ggplot2", quietly=TRUE)}
-g + xaringanthemer::theme_xaringan(text_font_size = 16, title_font_size = 18) +
-  ggtitle("A Plot About Cars")
-```
-
-.footnote[Requires Rstudio library `{showtext}`]
-
----
-layout: false
-
-## Square image
-
-<center><img src="https://octodex.github.com/images/labtocat.png" alt="GithHub Octocat" height="400px" /></center>
-
-.footnote[GitHub Octocat]
-
----
-
-### Wide image
-
-![A wide image with a diagram of branching in git.](https://docs.github.com/assets/images/help/repository/branching.png)
-
-.footnote[Wide images scale to 100% slide width]
-
----
-
-## Two images
-
-.pull-left[
-![A GitHub Octocat, style "mother hubber"](https://octodex.github.com/images/motherhubbertocat.png)
-]
-
-.pull-right[
-![A GitHub Octocat, style "dinotcat"](https://octodex.github.com/images/dinotocat.png)
-]
-
----
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ---
 class: center, middle
@@ -497,12 +268,11 @@ class: center, middle
 # Thanks!
 
 Slides created by ET Studio via the R packages:
-
+<!--
 [**xaringan**](https://github.com/yihui/xaringan)<br>
-[gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer)
+[gadenbuie/xaringanthemer](https://github.com/gadenbuie/xaringanthemer)  --> 
 
-
-
-The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com).
+The chakra comes from [remark.js](https://remarkjs.com), [**knitr**](http://yihui.name/knitr), and [R Markdown](https://rmarkdown.rstudio.com)
 
 .footnote[The Dharmachakra (&#x2638; wheel of the law with eight spokes) represents the Eightfold Path (Right View, Right Resolve, Right Speech, Right Actions, Right Occupation, Right Effort, Right Mindfulness and Right Concentration). ]
+
