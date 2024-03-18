@@ -40,6 +40,15 @@ style_mono_accent(
 ```{r xaringan-panelset, echo=FALSE}
 xaringanExtra::use_panelset()
 ```
+```{r xaringan-tile-view, echo=FALSE}
+xaringanExtra::use_tile_view()
+```
+```{r broadcast, echo=FALSE}
+xaringanExtra::use_broadcast()
+```
+```{r xaringanExtra-search, echo=FALSE}
+xaringanExtra::use_search(show_icon = TRUE)
+```
 
 ## trois logotipos == 3 Key logos
 
