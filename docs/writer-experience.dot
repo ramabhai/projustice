@@ -1,0 +1,38 @@
+
+
+
+ digraph writerexperince { label="SOURCING WRITING, ADVOCATING FOR THE ISSUES"; labelloc='t';fontsize=30;fontname='Palatino-Italic';
+
+node [style=filled]
+
+  a [label='Writer', shape=circle,fontname='Palatino',fontcolor=black, fontsize=24, fillcolor=green];
+  
+  b [label='ET \nStudio',shape=box,fontname='Palatino',fontcolor=white, fontsize=24,fillcolor=purple];
+  
+  c [label='17\nASAP',shape=circle,color=red,fontsize=28,
+      fontname='Palatino-Italic',fontcolor=white,style=filled];
+
+edge [color=black]       
+  a -> b ;
+  
+  b -> c [label='&nbsp; POSSE', style=dashed, fontsize=20];
+  
+  a -> {x y} [dir = both]; 
+
+
+#node [style=filled, shape=circle,fontname="Palatino-Italic",fontcolor=black, fillcolor='#E5E4E2',fontsize=13]
+
+node [color=black, style=filled, fontsize=24]
+  x [label='Knowledgebase', fillcolor=green]
+  y [label='Review team', fillcolor=green]
+  z [label='Issues Source', fillcolor=orange]
+  
+ 
+  z -> a  [label='&nbsp;Issues Info', weight=3, fontsize=20, dir=both];
+  z -> x [label='Share \nAdvocate \nLearn', fontsize=20];
+  
+edge [style=dashed,color=red];
+  b -> a;
+  
+  {rank=same; b x}
+}

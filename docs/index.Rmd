@@ -54,7 +54,7 @@ xaringanExtra::use_search(show_icon = TRUE)
 
 ![all logos](https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21286698&authkey=%21AGCAbGPQ8j1czCw&width=1200&height=600)
 
-.footnote[Lets get some logos for the next slide]
+.footnote[Collect the prize for naming them]
 ---
 ## der Überblick == Overview 
 
@@ -260,6 +260,27 @@ message("STUDIO == ET Studio")
 
 <!--
 Modified from https://www.civicus.org/documents/strategic-plan/CIVICUS-strategic-plan-2022-2027_en.pdf  -->
+
+---
+## Content generation
+
+.left-column[ 
+
+**Sources ==  CSOs**
+
+**Knowledgebase == Partner Institutions**
+
+**Review Team == Other 17ASAP writers**
+
+**POSSE == Publish on Own Site, Syndicate Elsewhere**
+
+]
+
+.right-column[  
+```{r writerexp, echo=FALSE}
+DiagrammeR::grViz("writer-experience.dot")
+```
+]
 
 ---
 
