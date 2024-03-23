@@ -54,7 +54,7 @@ xaringanExtra::use_search(show_icon = TRUE)
 
 ![all logos](https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21286698&authkey=%21AGCAbGPQ8j1czCw&width=1200&height=600)
 
-.footnote[Collect the prize for naming them]
+.footnote[CANARI == Caribbean Natural Resources Institute]
 ---
 ## der Überblick == Overview 
 
@@ -73,13 +73,16 @@ xaringanExtra::use_search(show_icon = TRUE)
 
 .panel[.panel-name[DURATION]
 
-#### 30 Months ... 
-<!---- place timeline imagery here  --->--
+#### 30 Months
+
 
 ```{r echo=FALSE, message=TRUE}
-message("Timeline to be inserted here")
+message( "Begins March 2023")
 ```
+
+
 ]
+
 .panel[.panel-name[Formal ID]
 <center>
 <img src="https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21255160&authkey=%21APZpC1eIj8dmANc&width=1024">
@@ -95,25 +98,26 @@ message("Timeline to be inserted here")
 
 .panel[.panel-name[INTERVENTION LOGIC]
 
-#### EnviroRightsTT intervention logic hinges on the belief that empowered CSOs, with improved knowledge and capacity to utilise policy and legal mechanisms for access to information, participation and justice, can foster transparency, accountability and inclusive environmental governance in T&T.
+### Empowered CSOs with improved knowledge and capacity to utilise policy and legal mechanisms for access to information, participation and justice, can foster transparency, accountability and inclusive environmental governance in T&T.
 ]
 
 .panel[.panel-name[ACCESS FOIA]
 
-#### To effectively utilise the Freedom of Information Act (1999) to access information on environmental matters, *thereby enhancing transparency and accountability*. 
+### To effectively utilise the Freedom of Information Act (1999) to access information on environmental matters, *thereby enhancing transparency and accountability*. 
      
 (*IT: Outcome 1*); 
-]     
+]
+
 .panel[.panel-name[PARTICIPATE <br> & ADVOCATE]    
  
-#### Participate in policy and *advocate for inclusive environmental governance*. 
+### Participate in policy and *advocate for inclusive environmental governance*. 
      
 (*IT: Outcome 2*); 
 ]    
 
 .panel[.panel-name[SEEK JUSTICE]  
      
-#### Seek justice through the mechanisms of the Environmental Commission. 
+### Seek justice through the mechanisms of the Environmental Commission. 
      
   (*Outcome 3*);
 
@@ -121,7 +125,7 @@ message("Timeline to be inserted here")
 
 .panel[.panel-name[PROMOTE]  
      
-#### Promote and foster an institutional framework and partnerships *which better enable CSOs to serve both as independent actors and partners in sustainable development*. 
+### Promote and foster an institutional framework and partnerships *which better enable CSOs to serve both as independent actors and partners in sustainable development*. 
      
 (*IT: Outcome 4*).
  ]
@@ -135,11 +139,11 @@ message("Timeline to be inserted here")
 
 .panel[.panel-name[ MOBILISING & MAPPING]
 
-  1. **Identifying and analysing** civil society stakeholders who are environmental defenders and advocates and should be targeted under the action. 
+  1. **Identify** civil society stakeholders who are environmental defenders and advocates and should be targeted under the action. 
 
-  1. **Analysis will look specifically at: roles and responsibilities; experiences with issues related to access to information, participation for justice in environmental matters; relationships; capacities and capacity needs** (*to identify key CSOs*). 
+  1. **Analyse** roles and responsibilities; experience with issues related to access to information, participation for justice in environmental matters; relationships; capacities and capacity needs
 
-  1. **Mapping will inform identification** of target CSOs and development of a strategy with mechanisms for communication, engagement and capacity building under the action. 
+  1. **Map CSO's** to develop a strategy with mechanisms for communication, engagement and capacity building under the action. 
 ]
 ]
 
@@ -208,14 +212,20 @@ Advocacy – CANARI will conduct advocacy training for CSOs and facilitate virtu
 Governance – PGA will provide awareness and capacity building for Parliamentarians on the Escazú Agreement and their role in application of rights to access information, participation and access to justice in environmental matters. T&T members of parliament will also be connected with Parliamentarians from around the Caribbean who are champions for the Escazú Agreement.
 
 ---
-class: inverse center middle
+class: center
+## Workflow
 
-![](https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21288503&authkey=%21AD2WKYoVumpxtxI&width=660)
-
-.footnote[Citizen Journal, Online platform etc. | *Component B > Awareness & Capacity Building*]
+<img src="https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21299909&authkey=%21ANhVbOPwj-EeUCU&width=1413&height=450" width="1413" height="450" />
 
 ---
-## INTRO TO 17ASAP
+class: center, inverse
+
+## Informing 
+
+background-image: url("https://onedrive.live.com/embed?resid=4373874DC3BD5E70%21288503&authkey=%21AD2WKYoVumpxtxI&width=660")
+
+---
+## 17ASAP
 
 ```{r echo=FALSE, message=TRUE}
 message( "Diagram: Civic Journal Studio [RED] > Content creators [GREEN] > Engaged CSOs [GOLD]")
@@ -224,42 +234,64 @@ message( "Diagram: Civic Journal Studio [RED] > Content creators [GREEN] > Engag
 ```{r connorg, echo=FALSE}
 DiagrammeR::grViz("orgs-connected.dot")
 ```
-
+--
 ```{r echo=FALSE, message=TRUE}
 message("Content == blog, podcast, mini-vids") 
 ```
 --
 
 ```{r echo =FALSE, message=TRUE}
-message("ICT == 100% Open Source") 
+message("Platform == 100% Open Source") 
 ```
 --
 ```{r echo=FALSE, message=TRUE}
-message("STUDIO == ET Studio")
+message("Publisher == ET Studio")
 ```
 ---
-## 17ASAP's Overarching Goal:
+## Bringing this home
+
+#### EnviroRights seeks
 
 >To strengthen civil society and citizen action in T&T for an expanded civic and democratic space 
 
-### Key Objectives 
+#### Environment Tobago
+
+seeks, as project partner:  
+
+> To present itself as an exemplar of Voice for the inclusion of Environmental Rights into the national space  
+
+by virtue of 
+
+--
+```{r echo=FALSE, message=TRUE}
+message("the Civic Journal - 17 As Soon As Possible")
+```
+--
+```{r echo=FALSE, message=TRUE}
+message("Next: The 17ASAP objectives")
+```
+
+???
+17ASAP is a digital platform centered on the Solutions Reporting style. The structure is POSSE  
+---
+## Key Objectives 
 
 
-1. Generate timely knowledge and strategic analyses on civil society actions in relation to T&T's civic and democratic space
+1. **Generate timely knowledge and strategic analyses on civil society actions in relation to T&T's civic and democratic space**
 	
-1. Coordinate targeted advocacy to defend and expand civic and democratic action for environmental rights
+1. **targeted advocacy to defend and expand civic and democratic action for environmental rights**
 
-1. Provide WRITE SUPPORT for non-political activists and organisations advocating for sustainable approaches to development 
+1. **Provide WRITE SUPPORT for non-political activists and organisations advocating for sustainable approaches to development** 
 
-1. ADVOCATE FOR PROTECTION in law for activists and organisations engaged in (3) above.  
+1. **ADVOCATE FOR PROTECTION in law for activists and organisations engaged in (3) above**.  
 
-1. Strengthen public discourse on the civic space and reinforce Civil Society TT narratives via 17ASAP
+1. **Strengthen public discourse on the civic space and reinforce Civil Society TT narratives via 17ASAP**
 
-1. Build VOICE (for) the most affected groups and their movements, enabling them to stimulate the fledlging environmental rights narrative in T&T - by virtue of arguing their causes.
+1. **Build VOICE (for) the most affected groups and their movements, enabling them to stimulate the fledlging environmental rights narrative in T&T - by virtue of arguing their cause**.
 
 
-<!--
-Modified from https://www.civicus.org/documents/strategic-plan/CIVICUS-strategic-plan-2022-2027_en.pdf  -->
+???
+Modified from https://www.civicus.org/documents/strategic-plan/CIVICUS-strategic-plan-2022-2027_en.pdf  
 
 ---
 ## Content generation
@@ -281,6 +313,9 @@ Modified from https://www.civicus.org/documents/strategic-plan/CIVICUS-strategic
 DiagrammeR::grViz("writer-experience.dot")
 ```
 ]
+
+???
+POSSE   includes syndicating on CSOs sites as well as the usual suspects
 
 ---
 
